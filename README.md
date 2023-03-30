@@ -1,6 +1,6 @@
 # totagarpad
 MIHVG.hu 
-Címsor megadásával cikket generál egy adott szerző stílusában és képes átírni a meglévő cikkeket adott sítlusra.
+Címsor megadásával cikket generál egy adott szerző stílusában és képes átírni a meglévő cikkeket az adott sítlusra.
 Jelenleg Tóta Gép Árpad elérhető :)
 
 Dataset
