@@ -26,7 +26,6 @@ pip install .
 pip install datasets
 pip install evaluate
 pip install torch
-pip install sklearn
 pip install scikit-learn
 ```
 
